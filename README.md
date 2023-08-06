@@ -1,4 +1,4 @@
-<p align="center"><a href="https://magzhansan.github.io"><img width="80%" alt="Hello, I'm Magzhan!"/></a></p>
+<p align="center"><a href="https://magzhansan.github.io">Hello, I'm Magzhan!</a></p>
 
 <br />
 
