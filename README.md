@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://magzhansan.github.io](https://github.com/MagzhanSan)">Hello, I'm Magzhan!</a></p>
+<p align="center"><a href="[https://magzhansan.github.io](https://github.com/MagzhanSan)">##Hello, I'm Magzhan!</a></p>
 
 <br />
 
